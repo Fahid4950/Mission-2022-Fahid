@@ -1,0 +1,76 @@
+section{
+    display: flex;
+}
+
+.width img{
+    width: 80%;
+}
+.width{
+    width: 50%;
+    padding-left: 2%;
+}
+.m{
+    color: blueviolet;
+    font-size: 50px;
+}
+.n{
+    
+    font-size: 50px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(yellow,tomato);
+	padding: 10px  40px;
+	color:rgb(156, 24, 24);
+	font-weight:700; 
+	border-radius:5px;
+    
+}
+.-width{
+    width: 50%;
+    padding-left: 2%;
+}
+
+.-width img{
+    width: 80%;
+}
+
+.wwidth{
+    width: 50%;
+    padding-left: 2%;
+}
+
+.wwidth img{
+    width: 80%;
+}
+.button3{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(98, 0, 255),rgb(255, 169, 71));
+	padding: 10px  40px;
+	color:rgb(32, 25, 25);
+	font-weight:700; 
+	border-radius:5px;
+    
+}
+.fo{
+    background-color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.fo1{
+    color: white;
+}
+.fo2{
+    color: white;
+}
+.fo0{
+    color: yellow;
+}
+.ww{
+    
+    font-size: 20px;
+    text-align: center;
+}
+.a{
+    color: orangered;
+}
